@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhantomF11
 - 👀 I’m interested in Web Development and Mathematics.
 - 🌱 I’m currently learning : React and Django.
-- 📫 How to reach me : Discord - `Zephyr#7165`.
+- 📫 How to reach me : phantomfrost11@gmail.com
 
 <!---
 PhantomF11/PhantomF11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
